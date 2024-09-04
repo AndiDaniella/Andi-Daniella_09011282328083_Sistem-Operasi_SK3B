@@ -125,5 +125,80 @@ Perintah `chmod` digunakan untuk mengubah hak akses file atau direktori di siste
 ![u25](https://github.com/user-attachments/assets/50dc0adc-5116-4b12-91d8-c7796e27e4bb) <br/>
 Perintah `exit` digunakan untuk keluar dari shell atau sesi terminal yang sedang aktif.
 
+26. <br/> ![26](https://github.com/user-attachments/assets/cb3334ba-0827-447f-8e48-291138dbdb6d) <br/>
+Kegunaan: Menampilkan secara real-time penggunaan CPU dan memori dari proses yang sedang berjalan di sistem.
+
+27. <br/> ![27](https://github.com/user-attachments/assets/48ce2ba1-fd0e-438c-a748-15a3dd5d62cc) <br/>
+Kegunaan: Mencari dan menampilkan baris-baris dalam file.txt yang mengandung kata atau pola "search_term".
+
+28. <br/> ![28](https://github.com/user-attachments/assets/43695993-942a-438c-9cce-3a25276ed107) <br/>
+Kegunaan: Menampilkan isi dari file file.txt secara langsung di terminal.
+
+29. <br/> ![29](https://github.com/user-attachments/assets/9908747f-b55a-4111-a380-96e2027404fc) <br/>
+Kegunaan: Menampilkan 10 baris pertama dari file file.txt.
+
+30. <br/> ![30](https://github.com/user-attachments/assets/5a920413-36b6-4627-b75a-301479e633b4) <br/>
+Kegunaan: Menampilkan 10 baris terakhir dari file file.txt.
+
+31. <br/> ![31](https://github.com/user-attachments/assets/4cb67604-85b1-49d0-b438-749f93cc5ba5) <br/>
+Kegunaan: Menyalin file file1.txt menjadi file2.txt.
+
+32. <br/> ![32](https://github.com/user-attachments/assets/7f0c4f1e-36af-41be-9724-28f1177ff4c3) <br/>
+Kegunaan: Memindahkan file file1.txt ke direktori /home/andi/documents/.
+
+33. <br/> ![33](https://github.com/user-attachments/assets/423b7884-b96e-4e36-9a51-590c14bc3d81) <br/>
+Kegunaan: Membuat symbolic link dari original ke symlink, memungkinkan akses ke file atau direktori melalui dua jalur berbeda.
+
+34. <br/> ![34](https://github.com/user-attachments/assets/f76a66fd-2ff0-4f74-9092-1f0f5403b921) <br/>
+Kegunaan: Menampilkan penggunaan disk di sistem beserta tipe filesystem yang digunakan.
+
+35. <br/> ![35](https://github.com/user-attachments/assets/fa619bdb-4c8a-4f4b-ac7b-bd7accf455e1) <br/>
+Kegunaan: Menampilkan informasi tentang penggunaan inode pada setiap filesystem.
+
+36. <br/> ![36](https://github.com/user-attachments/assets/3fc76f5c-0706-4b86-8803-2fb67a96ab4d) <br/>
+Kegunaan: Membuka editor teks nano untuk mengedit file.txt.
+
+37. <br/> ![37](https://github.com/user-attachments/assets/ba47e50f-f4a2-47b5-bf03-f5b48d28b41e) <br/>
+Kegunaan: Menampilkan informasi tentang distribusi Linux yang sedang digunakan.
+
+38. <br/> ![38](https://github.com/user-attachments/assets/13bb7efd-a786-4e0f-856e-09cbc1b700b7) <br/>
+Kegunaan: Mengekstrak semua file dari arsip tar yang telah dibuat.
+
+39. <br/> ![39](https://github.com/user-attachments/assets/fb4189ee-e1e7-4496-ad80-2b9bb0d7eefd) <br/>
+Kegunaan: Mengunduh file dari URL yang diberikan ke direktori saat ini.
+
+40. <br/> ![40](https://github.com/user-attachments/assets/60eb292b-3f7e-4af2-a327-5a468750989c) <br/>
+Kegunaan: Mengunduh file dari URL yang diberikan dan menyimpan dengan nama aslinya.
+
+41. <br/> ![41](https://github.com/user-attachments/assets/e53dadac-e35d-40d2-a298-2ad3d6614a78) <br/>
+Kegunaan: Membuat alias ll untuk menjalankan perintah ls -alF agar lebih mudah dan cepat.
+
+42. <br/> ![42](https://github.com/user-attachments/assets/d359c17e-956d-43b8-b2aa-2c9bd4d2d628) <br/>
+Kegunaan: Menampilkan versi kernel Linux yang sedang berjalan di sistem.
+
+43. <br/> ![43](https://github.com/user-attachments/assets/0ab0cca0-b10d-448f-b2c3-49d2d964925e) <br/>
+Kegunaan: Membuka sesi SSH ke mesin remote remote-host menggunakan nama pengguna user.
+
+44. <br/> ![44](https://github.com/user-attachments/assets/f24b9d79-b554-460c-9171-da5e43c76604) <br/>
+Kegunaan: Menginstal pembaruan untuk semua paket yang telah diinstal.
+
+45. <br/> ![45](https://github.com/user-attachments/assets/59521d64-0f95-492b-aba4-63aba31d87f4) <br/>
+Kegunaan: Menginstal pembaruan untuk semua paket yang telah diinstal.
+
+46. <br/> ![46](https://github.com/user-attachments/assets/fb9d2bf7-9ce1-4d72-8f59-4940d0a7e480) <br/>
+Kegunaan: Mengubah izin dari script.sh menjadi dapat dieksekusi oleh pemiliknya dan dapat dibaca oleh orang lain.
+
+47. <br/> ![47](https://github.com/user-attachments/assets/4b3b1d25-bf8f-44f5-ae9f-efe829f4faed) <br/>
+Kegunaan: Mengubah pemilik dan grup dari file file.txt menjadi user dan group.
+
+48. <br/> ![48](https://github.com/user-attachments/assets/9961b7ff-1a1c-4548-b192-643458806fa4) <br/>
+Kegunaan: Menampilkan penggunaan disk dalam format yang mudah dibaca manusia (-h) dan menunjukkan tipe filesystem (-T) pada setiap partisi.
+
+49. <br/> ![49](https://github.com/user-attachments/assets/611c62e3-2cb8-4e5a-b8d0-327ea1cf9a32) <br/>
+Kegunaan: Mengompresi file file.txt menjadi file file.txt.gz untuk menghemat ruang disk.
+
+50. <br/> ![50](https://github.com/user-attachments/assets/c2bd8762-e410-4734-9a0b-87a0acbca042) <br/>
+Kegunaan: Mengekstrak semua file dari arsip file.zip ke direktori yang ditentukan (/path/to/directory/).
 
 
+<h1> END </h1>
