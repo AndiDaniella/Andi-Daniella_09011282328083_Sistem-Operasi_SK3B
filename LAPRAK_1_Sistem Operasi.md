@@ -23,4 +23,54 @@ Berikut tujuan pembuatan laporan praktikum ini dibuat agar : <br/>
 
 <h2> PEMBAHASAN </h2>
 <h3> Langkah-langkah Instalasi Ubuntu </h3>
-1. Install 
+
+1. Untuk mengunduh file ISO distribusi Ubuntu 24.04 LTS dari situs resmi, kunjungi situs web Ubuntu, lalu masuk ke bagian unduhan dan pilih versi yang diinginkan. Cari tombol "Unduh," dan setelah mengkliknya, file ISO akan mulai diunduh ke perangkat Anda. Pastikan untuk memverifikasi integritas file menggunakan checksum yang disediakan agar proses instalasi berjalan lancar. <br/>
+
+2. Lalu, instal juga Oracle VM VirtualBox dari situs web resminya <br/>
+
+3. Instal VirtualBox <br/>
+* Buka file instalasi VirtualBox yang telah diunduh. <br/>
+* Ikuti panduan instalasi sampai selesai.<br/>
+* Setelah instalasi selesai, buka VirtualBox.<br/>
+
+4. Buat Mesin Virtual Baru <br/>
+* Klik tombol "New" atau "Baru" di VirtualBox.<br/>
+* Beri nama mesin virtual (misalnya, "Ubuntu 24.04 LTS").<br/>
+* Pilih tipe "Linux" dan versi "Ubuntu (64-bit)".<br/>
+* Klik "Next" atau "Lanjutkan".<br/>
+
+5. Alokasikan Memori (RAM) <br/>
+* Tentukan jumlah RAM yang akan dialokasikan untuk mesin virtual.<br/>
+* Disarankan setidaknya 2 GB (2048 MB) atau lebih, tergantung pada kapasitas komputer Anda.<br/>
+* Klik "Next".<br/>
+
+6. Buat Hard Disk Virtual <br/>
+* Pilih opsi "Create a virtual hard disk now" atau "Buat hard disk virtual sekarang".<br/>
+* Klik "Create" atau "Buat".<br/>
+* Pilih format file hard disk (disarankan VDI).<br/>
+* Pilih opsi "Dynamically allocated" agar ukuran disk bertambah seiring kebutuhan.<br/>
+* Tentukan ukuran disk (misalnya, 20 GB atau lebih).<br/>
+* Klik "Create".<br/>
+
+7. Konfigurasi Mesin Virtual <br/>
+* Setelah mesin virtual dibuat, pilih mesin tersebut dan klik "Settings" atau "Pengaturan".<br/>
+* Masuk ke tab "Storage" atau "Penyimpanan".<br/>
+* Klik ikon "Empty" atau "Kosong" di bawah pengontrol "IDE".<br/>
+* Klik ikon CD di sebelah kanan dan pilih "Choose a disk file" atau "Pilih file disk".<br/>
+* Pilih file ISO Ubuntu yang telah Anda unduh.<br/>
+* Klik "OK" untuk menyimpan pengaturan.<br/>
+
+8. Mulai Mesin Virtual <br/>
+* Pilih mesin virtual Ubuntu dan klik "Start" atau "Mulai".<br/>
+* Mesin virtual akan memuat ISO Ubuntu dan memulai proses instalasi.<br/>
+
+9. Instal Ubuntu di VirtualBox <br/>
+* Ikuti panduan instalasi Ubuntu di layar, pilih bahasa, zona waktu, dan partisi disk sesuai kebutuhan Anda. <br/>
+
+
+* Setelah instalasi selesai, restart mesin virtual. <br/>
+9. Lepaskan ISO dan Reboot <br/>
+* Setelah instalasi selesai, buka pengaturan mesin virtual dan lepaskan ISO dari drive virtual. <br/>
+* Reboot mesin virtual untuk memulai Ubuntu dari hard disk virtual yang baru saja Anda buat. <br/>
+10. Mulai Menggunakan Ubuntu <br/>
+* Ubuntu akan boot, dan Anda bisa mulai menggunakannya di dalam VirtualBox. <br/>
