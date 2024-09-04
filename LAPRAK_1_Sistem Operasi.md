@@ -87,3 +87,27 @@ Berikut tujuan pembuatan laporan praktikum ini dibuat agar : <br/>
 * Reboot mesin virtual untuk memulai Ubuntu dari hard disk virtual yang baru saja Anda buat. <br/>
 10. Mulai Menggunakan Ubuntu <br/>
 * Ubuntu akan boot, dan Anda bisa mulai menggunakannya di dalam VirtualBox. <br/>
+
+<h3> TUGAS </h3>
+<h4> 1. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? </h4>
+<p> Memilih “/” sebagai mount point saat instalasi Linux sangat penting karena “/” adalah direktori root, yang merupakan lokasi utama di mana seluruh sistem operasi dan file penting lainnya diinstal. Dengan menetapkannya sebagai mount point, Anda memastikan bahwa semua komponen sistem terstruktur dengan benar di bawah direktori ini, menjaga stabilitas, keamanan, dan keteraturan sistem file Linux. </p>
+
+<h4> 2. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !</h4>
+<p> Berikut adalah penjelasan singkat tentang masing-masing sistem file:
+
+1. **ext4**: **Extended Filesystem 4** adalah sistem file yang umum digunakan di Linux, menawarkan peningkatan kinerja, keandalan, dan ukuran file serta partisi yang lebih besar dibandingkan dengan pendahulunya, ext3. Mendukung fitur seperti journaling dan defragmentasi otomatis.
+
+2. **ext3**: **Extended Filesystem 3** adalah sistem file Linux yang mendukung journaling, yang membantu melindungi data saat terjadi kerusakan. Meskipun stabil dan andal, ext3 kurang efisien dibandingkan ext4 dalam hal kecepatan dan manajemen ruang disk.
+
+3. **swap**: Swap bukan sistem file, tetapi ruang pada disk yang digunakan sebagai memori virtual saat RAM fisik penuh. Sistem menggunakan swap untuk memperluas kapasitas memori, meskipun aksesnya lebih lambat dibandingkan RAM.
+
+4. **ntfs**: **New Technology File System** adalah sistem file yang dikembangkan oleh Microsoft, digunakan terutama oleh Windows. Mendukung fitur seperti file permission, encryption, dan journaling. Cocok untuk penyimpanan besar dan partisi Windows.
+
+5. **fat32**: **File Allocation Table 32** adalah sistem file yang lebih tua dan kompatibel dengan banyak sistem operasi, termasuk Windows, Linux, dan macOS. Namun, memiliki keterbatasan seperti ukuran file maksimal 4GB dan partisi maksimal 2TB.
+
+6. **btrfs**: **B-tree Filesystem** adalah sistem file modern untuk Linux yang mendukung fitur-fitur canggih seperti snapshot, pooling, dan integritas data. Btrfs dirancang untuk menjadi sistem file generasi berikutnya dengan fokus pada skalabilitas dan kinerja.</p>
+
+
+<h2> KESIMPULAN </h2>
+<p> Praktikum ini memberikan pengalaman langsung dalam menginstal dan mengkonfigurasi Ubuntu 24.04 LTS menggunakan VirtualBox, sebuah alat virtualisasi yang memungkinkan menjalankan beberapa sistem operasi pada satu perangkat keras tanpa mengganggu sistem utama. Dengan mengikuti prosedur instalasi, baik melalui antarmuka grafis (GUI) maupun Command Line, peserta dapat memahami langkah-langkah teknis dan praktis yang terlibat dalam proses instalasi sistem operasi Linux. </p>
+<p> Selain itu, praktikum ini juga mengedepankan pemahaman mendalam mengenai berbagai sistem file seperti ext4, ext3, swap, ntfs, fat32, dan btrfs, serta pentingnya pemilihan mount point, khususnya direktori root ("/") dalam struktur sistem file. Analisis terhadap proses ini membantu peserta memahami bagaimana sistem file dan pengaturan partisi mempengaruhi kinerja, keamanan, dan kompatibilitas sistem operasi. Melalui praktikum ini, diharapkan peserta dapat menguasai teknik instalasi dan konfigurasi serta memperoleh keterampilan yang relevan dalam manajemen sistem operasi modern.</p>
