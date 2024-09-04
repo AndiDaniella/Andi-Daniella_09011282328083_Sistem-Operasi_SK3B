@@ -77,7 +77,7 @@ Berikut tujuan pembuatan laporan praktikum ini dibuat agar : <br/>
 <img src="https://github.com/user-attachments/assets/f4aadc39-fe70-4e52-9f80-632a7714e1ee" width=500/>
 <img src="https://github.com/user-attachments/assets/2f89f345-8a7b-4145-b222-6e5ddd12a2dc" width=500/>
 <img src="https://github.com/user-attachments/assets/b781ae9e-8aa5-4cbf-be36-f21823636919" width=500/>
-<img src="https://github.com/user-attachments/assets/72e60de8-20b8-4939-8201-dba76c6a9b74" width=500/>
+<img src="https://github.com/user-attachments/assets/c717861d-7638-41f6-995d-2580fd081a23" width=500/>
 <img src="https://github.com/user-attachments/assets/492e6fb5-e272-43da-bcdb-0efc67827a99" width=500/>
 <img src="https://github.com/user-attachments/assets/99cd2f11-fe66-4c9b-9494-8436abafa326" width=500/>
 
