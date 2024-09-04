@@ -66,7 +66,20 @@ Berikut tujuan pembuatan laporan praktikum ini dibuat agar : <br/>
 
 9. Instal Ubuntu di VirtualBox <br/>
 * Ikuti panduan instalasi Ubuntu di layar, pilih bahasa, zona waktu, dan partisi disk sesuai kebutuhan Anda. <br/>
-
+<img src="https://github.com/user-attachments/assets/90ea7c2c-dc17-41ce-9cf5-cb9974905171" width=500/>
+<img src="https://github.com/user-attachments/assets/afeb54b0-bfea-4731-a561-02b9a2c124bb" width=500/>
+<img src="https://github.com/user-attachments/assets/f4c196cc-e973-4709-8660-2d93f3f2e757" width=500/>
+<img src="https://github.com/user-attachments/assets/5485b138-270d-42eb-b777-89826f50ef01" width=500/>
+<img src="https://github.com/user-attachments/assets/ffebbb9d-a615-49f5-adc2-ddcd349d946a" width=500/>
+<img src="https://github.com/user-attachments/assets/7b4c3b1b-4977-410c-a777-39777ed63eee" width=500/>
+<img src="https://github.com/user-attachments/assets/696338a3-9765-464b-9ce2-a0eb179e87d7" width=500/>
+<img src="https://github.com/user-attachments/assets/733c591e-e154-4592-ba4f-6e62801e5162" width=500/>
+<img src="https://github.com/user-attachments/assets/f4aadc39-fe70-4e52-9f80-632a7714e1ee" width=500/>
+<img src="https://github.com/user-attachments/assets/2f89f345-8a7b-4145-b222-6e5ddd12a2dc" width=500/>
+<img src="https://github.com/user-attachments/assets/b781ae9e-8aa5-4cbf-be36-f21823636919" width=500/>
+<img src="https://github.com/user-attachments/assets/72e60de8-20b8-4939-8201-dba76c6a9b74" width=500/>
+<img src="https://github.com/user-attachments/assets/492e6fb5-e272-43da-bcdb-0efc67827a99" width=500/>
+<img src="https://github.com/user-attachments/assets/99cd2f11-fe66-4c9b-9494-8436abafa326" width=500/>
 
 * Setelah instalasi selesai, restart mesin virtual. <br/>
 9. Lepaskan ISO dan Reboot <br/>
